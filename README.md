@@ -13,6 +13,7 @@ In this project, we trained a feedforward neural network to distinguish between 
 
 ## Project Folder Layout
 ```
+.
 ├── baseline_model.ipynb
 ├── data
 │   ├── human_v_machine_bert_finetuned
@@ -25,7 +26,10 @@ In this project, we trained a feedforward neural network to distinguish between 
 ├── README.md
 ├── requirements.txt
 ├── test_app.py
+├── test_data_1000_sampled.csv
+├── test_data_100_sampled.csv
 └── transformer_model.ipynb
+
 ```
 
 ## Instructions to Run Code and Test the Model
@@ -55,7 +59,7 @@ In this project, we trained a feedforward neural network to distinguish between 
    streamlit run test_app.py
    ```
    
-5. To access the cloud-hosted version of the test app for convenience, visit [TestApp](https://joekmfonfu-hvm-test-app-app-qtwkai.streamlit.app/).The test_data_100_sampled.csv or test_data_1000_sampled.csv sample files can be used for testing.
+5. To access the cloud-hosted version of the test app for convenience, visit [TestApp](https://joekmfonfu-hvm-test-app-app-qtwkai.streamlit.app/).The `./test_data_100_sampled.csv` or `./test_data_1000_sampled.csv` sample files can be used for testing.
 
 
 # Testing Demonstration
