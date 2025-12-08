@@ -55,4 +55,11 @@ In this project, we trained a feedforward neural network to distinguish between 
    streamlit run test_app.py
    ```
    
-5. To access the cloud-hosted version of the test app for convinience, visit [TestApp](https://google.com)
+5. To access the cloud-hosted version of the test app for convenience, visit [TestApp](https://google.com)
+
+
+# Testing Demonstration
+
+<img width="1862" height="1052" alt="image" src="https://github.com/user-attachments/assets/a0118052-64f3-4565-9ccc-d830c7a7fe8d" />
+
+<img width="1845" height="1076" alt="image" src="https://github.com/user-attachments/assets/483a7e61-c828-4073-b232-76ecb403c86f" />
